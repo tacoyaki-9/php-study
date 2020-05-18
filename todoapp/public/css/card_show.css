@@ -1,0 +1,4 @@
+p .border_low {
+  border-bottom: medium solid #f00;
+  background-clip: padding-box;
+}
